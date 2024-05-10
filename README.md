@@ -6,6 +6,6 @@
 </p>
 
 <h3 align="center">
-Ditch the Links, Get Straight Answers
+Skip the links, get straight to the point.
 </h3>
 
