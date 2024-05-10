@@ -6,6 +6,6 @@
 </p>
 
 <h3 align="center">
-Skip the links, get straight to the point.
+  Not your average Search Engine 
 </h3>
 
